@@ -1,3 +1,7 @@
+> To download everything : Click on the green "code" button, a list should pop up. Click on "Download ZIP"
+>
+> To download only 1 file : Click on the desired .package files starting with "!!!Zerbie_". You'll be sent to a page highlighting that individual file. On the right side, click "download"
+
 ### Description :
 A bundle of small mods that changes a bit of gameplay for the Tribe and Civilization Stage. Read below to understand the specific changes that these mods make.
 
